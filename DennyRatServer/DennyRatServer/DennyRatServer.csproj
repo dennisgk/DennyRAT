@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E8515D87-0895-44FA-81A5-4DFD25160C67}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DennyRatServer</RootNamespace>
+    <AssemblyName>DennyRatServer</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DenniRatClient\DenniRatClient\bin\Debug\AForge\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DenniRatClient\DenniRatClient\bin\Debug\AForge\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.FFMPEG, Version=2.2.5.0, Culture=neutral, PublicKeyToken=03563089b1be05dd, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DenniRatClient\DenniRatClient\bin\Debug\AForge\AForge.Video.FFMPEG.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.VFW, Version=2.2.4.0, Culture=neutral, PublicKeyToken=a82f807c999637c8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\DenniRatClient\DenniRatClient\bin\Debug\AForge\AForge.Video.VFW.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.WindowsAPICodePack-Core.1.1.0.0\lib\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.WindowsAPICodePack-Shell.1.1.0.0\lib\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.ShellExtensions, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.WindowsAPICodePack-Shell.1.1.0.0\lib\Microsoft.WindowsAPICodePack.ShellExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio, Version=1.10.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.1.10.0\lib\net35\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FunMenu.Designer.cs">
+      <DependentUpon>FunMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PassManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PassManager.Designer.cs">
+      <DependentUpon>PassManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Prompt.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemAudio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemAudio.Designer.cs">
+      <DependentUpon>RemAudio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemCamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemCamera.Designer.cs">
+      <DependentUpon>RemCamera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemDesk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemDesk.Designer.cs">
+      <DependentUpon>RemDesk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemFlManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemFlManager.Designer.cs">
+      <DependentUpon>RemFlManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemProcManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemProcManager.Designer.cs">
+      <DependentUpon>RemProcManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sorter.cs" />
+    <Compile Include="SysInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SysInfo.Designer.cs">
+      <DependentUpon>SysInfo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FunMenu.resx">
+      <DependentUpon>FunMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PassManager.resx">
+      <DependentUpon>PassManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RemAudio.resx">
+      <DependentUpon>RemAudio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemCamera.resx">
+      <DependentUpon>RemCamera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemDesk.resx">
+      <DependentUpon>RemDesk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemFlManager.resx">
+      <DependentUpon>RemFlManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemProcManager.resx">
+      <DependentUpon>RemProcManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SysInfo.resx">
+      <DependentUpon>SysInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fileico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folderico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thispcico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktopico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\documentsico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downloadsico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\musicico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picturesico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\videosico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

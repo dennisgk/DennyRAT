@@ -1,0 +1,89 @@
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\DenniRatClient.exe.config
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\DenniRatClient.exe
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\DenniRatClient.pdb
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csprojAssemblyReference.cache
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.Form1.resources
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.Properties.Resources.resources
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.exe
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.pdb
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csproj.CopyComplete
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\NAudio.dll
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\NAudio.xml
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.dll
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.dll
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.xml
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.xml
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\ChromePassDecrypter.dll
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\ChromePassDecrypter.pdb
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gaming\Desktop\itchioprograms\MyRat\DenniRatClient\DenniRatClient\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\DenniRatClient.exe.config
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\DenniRatClient.exe
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\DenniRatClient.pdb
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.dll
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\ChromePassDecrypter.dll
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\NAudio.dll
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.dll
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.xml
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\ChromePassDecrypter.pdb
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\NAudio.xml
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.xml
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csprojAssemblyReference.cache
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.Form1.resources
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.Properties.Resources.resources
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csproj.CopyComplete
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.exe
+C:\Users\Gaming\Desktop\itchioprograms\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.pdb
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\DenniRatClient.exe.config
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\DenniRatClient.exe
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\DenniRatClient.pdb
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.dll
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.VFW.dll
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\NAudio.dll
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.dll
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.xml
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.FFMPEG.xml
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.Video.VFW.xml
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\ChromePassDecrypter.pdb
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\NAudio.xml
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\bin\Debug\AForge.xml
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csprojAssemblyReference.cache
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.Form1.resources
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.Properties.Resources.resources
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csproj.GenerateResource.cache
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csproj.CoreCompileInputs.cache
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.csproj.CopyComplete
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.exe
+C:\Users\Gaming\Desktop\itchioprograms\Github Repositories\Rat repo\DennyRat\DenniRatClient\DenniRatClient\obj\Debug\DenniRatClient.pdb
