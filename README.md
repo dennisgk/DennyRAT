@@ -1,2 +1,9 @@
 # DennyRat
  
+MAKE SURE YOU CHANGE THE IP IN THE CLIENT PROGRAM.
+THERE IS NO IP IN THE SERVER PROGRAM BECAUSE THE CLIENT SHOULD CONNECT TO IT.
+ALSO, CHANGE THE PORT FOR THE CLIENT PROGRAM.
+
+Use [enigma virtual box](https://enigmaprotector.com/en/aboutvb.html) to package the client rat and its files.
+
+MAKE SURE YOU BUILD BOTH PROGRAMS BEFORE USE!
